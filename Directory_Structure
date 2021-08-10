@@ -1,0 +1,19 @@
+dn:	ou=permanent,dc=ltacademy,dc=com
+objectclass:	organizationalunit
+ou:	permanent
+description:	permanent
+
+dn:	ou=contractor,dc=ltacademy,dc=com
+objectclass:	organizationalunit
+ou:	contractor
+description:	contractor
+
+dn:	ou=books,dc=ltacademy,dc=com
+objectclass:	organizationalunit
+ou:	books
+description:	books
+
+dn:	ou=System,dc=ltacademy,dc=com
+objectclass:	organizationalunit
+ou:	System
+description:	System
