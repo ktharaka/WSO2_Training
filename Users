@@ -1,0 +1,61 @@
+dn:	uid=owen,ou=permanent,dc=ltacademy,dc=com
+objectClass:	inetOrgPerson
+objectClass:	top
+cn:	owen
+sn:	hudson
+mail:	owen.hudson@lt.com
+mobile:	94771111111
+street:	london
+uid:	owen
+userPassword:	{SHA}8c9lHOGiGRp2DAsvFhI095WOJuQ=
+
+dn:	uid=rachel,ou=permanent,dc=ltacademy,dc=com
+objectClass:	inetOrgPerson
+objectClass:	top
+cn:	rachel
+sn:	burgess
+mail:	rachel.burgess@lt.com
+mobile:	94771111112
+street:	london
+uid:	rachel
+userPassword:	{SHA}8c9lHOGiGRp2DAsvFhI095WOJuQ=
+
+dn:	uid=mary,ou=permanent,dc=ltacademy,dc=com
+objectClass:	inetOrgPerson
+objectClass:	top
+cn:	mary
+sn:	mathis
+mail:	mary.mathis@lt.com
+mobile:	94771111113
+street:	london
+uid:	mary
+userPassword:	{SHA}8c9lHOGiGRp2DAsvFhI095WOJuQ=
+
+
+dn:	uid=gabrielle,ou=contractor,dc=ltacademy,dc=com
+objectClass:	inetOrgPerson
+objectClass:	top
+cn:	gabrielle
+sn:	vaughan
+mail:	gabrielle.vaughan@lt.com
+mobile:	94771111147
+street:	colombo
+uid:	gabrielle
+userPassword:	{SHA}8c9lHOGiGRp2DAsvFhI095WOJuQ=
+
+dn:	uid=wendy,ou=contractor,dc=ltacademy,dc=com
+objectClass:	inetOrgPerson
+objectClass:	top
+cn:	wendy
+sn:	davidson
+mail:	wendy.davidson@lt.com
+mobile:	94771111148
+street:	colombo
+uid:	wendy
+userPassword:	{SHA}8c9lHOGiGRp2DAsvFhI095WOJuQ=
+
+dn:	cn=replicationuser,ou=System,dc=ltacademy,dc=com
+objectClass:	simpleSecurityObject
+objectClass:	organizationalRole
+cn:	replicationuser
+userPassword:	{SHA}8c9lHOGiGRp2DAsvFhI095WOJuQ=
