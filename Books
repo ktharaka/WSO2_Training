@@ -1,0 +1,53 @@
+dn:	documentIdentifier=1001,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Data Smart	
+documentPublisher:	Wiley
+
+dn:	documentIdentifier=1002,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	God Created the Integers
+documentPublisher:	Penguin
+
+dn:	documentIdentifier=1003,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Superfreakonomics
+documentPublisher:	HarperCollins
+
+dn:	documentIdentifier=1004,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Orientalism
+documentPublisher:	penguin
+
+dn:	documentIdentifier=1005,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Nature of Statistical Learning Theory, The
+documentPublisher:	Springer
+
+dn:	documentIdentifier=1006,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Integration of the Indian States
+documentPublisher:	Orient Blackswan
+
+dn:	documentIdentifier=1007,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Drunkard's Walk, The
+documentPublisher:	Penguin
+
+dn:	documentIdentifier=1008,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	Image Processing & Mathematical Morphology
+documentPublisher:	CRC
+
+dn:	documentIdentifier=1009,ou=books,dc=ltacademy,dc=com
+objectClass:	document
+objectClass:	top
+cn:	How to Think Like Sherlock Holmes
+documentPublisher:	CRC
