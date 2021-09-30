@@ -1,0 +1,14 @@
+- hosts: localhost
+  gather_facts: no
+  vars:
+      gcp_project: lt-2021-082-327611
+      gcp_cred_kind: serviceaccount
+      gcp_cred_file: /home/kasun/ansible.json
+      zone: "us-central1-a"
+      region: "us-central1"
+
+  tasks:
+     - include_tasks: test.yml
+       with_items:
+               - {name : "vm1" , address : "vm1" , disk : "vm1" }
+               - {name : "vm2" , address : "vm2" , disk : "vm2" }
